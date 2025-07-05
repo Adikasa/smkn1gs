@@ -1,5 +1,4 @@
 # Website Profil dan Manajemen Sekolah SMK menggunakan CodeIgniter 4 Framework
-Aplikasi website profil dan manajemen sekolah dari [Java Web Media](https://javawebmedia.com/) dengan berbagai fitur yang semoga bermanfaat. 
 
 ![Adikasa](img/github-header-image.png)
 # 💫 PROFIL ADIKASA:
