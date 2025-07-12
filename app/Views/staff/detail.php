@@ -50,7 +50,7 @@
                         </div>
                         
                     </div>
-                    <h3 class="h5 mt-5">Expertise</h3>
+                    <h3 class="h5 mt-5">No. Induk Pegawai</h3>
                     <?php echo nl2br($staff->keahlian) ?>
                     </div>
                     <!-- /.post-content -->

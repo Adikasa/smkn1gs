@@ -5,7 +5,7 @@
 <div class="form-group row">
 	<label class="col-3">Nama Staff</label>
 	<div class="col-6">
-		<input type="text" name="nama" class="form-control" placeholder="Nama staff" value="<?php echo set_value('nama') ?>" required>
+		<input type="text" name="nama" class="form-control" placeholder="Nama Lengkap berikut Gelar" value="<?php echo set_value('nama') ?>" required>
 	</div>
 </div>
 
@@ -67,7 +67,7 @@
 <div class="form-group row">
 	<label class="col-3">Email dan Telepon</label>
 	<div class="col-4">
-		<input type="text" name="email" class="form-control" placeholder="Email staff" value="<?php echo set_value('email') ?>">
+		<input type="text" name="email" class="form-control" placeholder="Email : @smkn1gunungsindur.sch.id" value="<?php echo set_value('email') ?>">
 	</div>
 	<div class="col-5">
 		<input type="text" name="telepon" class="form-control" placeholder="Telepon" value="<?php echo set_value('telepon') ?>">
@@ -92,9 +92,9 @@
 </div>
 
 <div class="form-group row">
-	<label class="col-3">Keahlian</label>
+	<label class="col-3">NIP</label>
 	<div class="col-9">
-		<textarea name="keahlian" placeholder="Keahlian" class="form-control"><?php echo set_value('keahlian') ?></textarea>
+		<textarea name="keahlian" placeholder="No. Induk Pegawai" class="form-control"><?php echo set_value('keahlian') ?></textarea>
 	</div>
 </div>
 
